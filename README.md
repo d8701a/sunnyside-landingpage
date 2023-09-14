@@ -29,11 +29,9 @@ Users should be able to:
 
 ![](images/screenshot.png)
 
-
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: (https://d8701a.github.io/sunnyside-landingpage/)
 
 ### Built with
 
@@ -43,7 +41,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Javascript
-
 
 ### What I learned
 
@@ -64,7 +61,6 @@ and one with X, so the hamburger icon changes accordingly.
 
 Also I am wondering if event propagation could've been used in the code when I wanted the menu to disappear when a user clicks anywhere outside the menu container.
 I found my own solution that works, but for the future, I should look up the event propagation too.
-
 
 ## Author
 
