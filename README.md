@@ -50,7 +50,7 @@ Also I spent some time thinking how to solve the problem with the image section,
 I think hamburger menu could've been more elegant, so the next time I will try to use transitions to have it appear more smoothly, but I set its width dynamically using the clamp() function so it
 changes its width depending on a screen size, which I'm very pleased with.
 
-Also I am very happy with the possibilities of the <picture> element, as it definitely helps responsiveness via its adaptability and possibility to change the picture depending on a screen width.
+Also I am very happy with the possibilities of the picture element, as it definitely helps responsiveness via its adaptability and possibility to change the picture depending on a screen width.
 This also helps users who are on a limited plan/bandwidth, as it avoids large images being unnecessarily downloaded and spending more data than needed.
 
 
