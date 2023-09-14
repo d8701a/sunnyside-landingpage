@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://d8701a.github.io/sunnyside-landingpage/)
+- Live Site URL: https://d8701a.github.io/sunnyside-landingpage/
 
 ### Built with
 
